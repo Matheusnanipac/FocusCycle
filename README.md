@@ -1,4 +1,4 @@
-FocusCycle
+
 Bem-vindo ao FocusCycle! Este é um site criado para ajudar você a utilizar a técnica Pomodoro para aumentar sua produtividade e melhorar seu foco nos estudos ou no trabalho.
 
 Funcionalidades
